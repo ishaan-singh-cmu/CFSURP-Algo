@@ -23,7 +23,7 @@ For methodology, architecture, datasets, and experimental results, see:
 |--------|-------------|
 | [`options/`](./options) | Trading & backtesting algorithms for **high-frequency trading**, **options**, and **derivatives**. Includes volatility-based strategies and risk management with the Greeks. |
 | [`ML/`](./ML) | Machine learning models for market prediction, including training scripts, evaluation tools, and integrated backtesting for ML-driven strategies. |
-| [`Sentiment Analysis/`](./Sentiment%20Analysis) | Sentiment datasets from tweets & financial news, classification scripts, and code for integrating sentiment into trading models. |
+| [`Sentiment Analysis/`](./SentimentAnalysis) | Sentiment datasets from tweets & financial news, classification scripts, and code for integrating sentiment into trading models. |
 
 ---
 
