@@ -1,4 +1,3 @@
-![CFSURP 2025 Banner](./banner.png)
 # CFSURP 2025 — Algorithmic Trading Projects  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
