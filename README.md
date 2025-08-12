@@ -1,8 +1,9 @@
+![CFSURP 2025 Banner](./banner.png)
 # CFSURP 2025 — Algorithmic Trading Projects  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)  
-![Last Commit](https://img.shields.io/github/last-commit/CMU-CFSURP-2025/algorithmic-trading)  
+![Last Commit](https://img.shields.io/github/last-commit/ishaan-singh-cmu/CFSURP-Algo)  
 
 The official GitHub repository for **Carnegie Mellon University's Computational Finance Summer Undergraduate Research Program (CFSURP)** — **Cohort of 2025**.  
 
@@ -27,9 +28,9 @@ For methodology, architecture, datasets, and experimental results, see:
 ---
 
 ## 📌 About the Program  
-The **Computational Finance Summer Undergraduate Research Program (CFSURP)** at Carnegie Mellon University unites undergraduate researchers to develop, test, and evaluate innovative computational finance solutions.  
+The **Computational Finance Summer Undergraduate Research Program (CFSURP)** is offered by CMU's Bachelor of Science in Computational Finance (BSCF) department. This project was under the supervision of Dr. Handron, Interim Director of the BSCF Program @ CMU.
 
-The **2025 cohort** focused on:  
+Our group: Tiffany, Ethan, Andrew, and Ishaan worked on:  
 - High-frequency & volatility-based trading strategies  
 - Options & derivatives pricing models  
 - Predictive modeling with machine learning  
